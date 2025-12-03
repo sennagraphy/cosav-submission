@@ -4,7 +4,7 @@ Author: Sennagraphy (@sennagraphy)
 Network: Lisk Sepolia (chainId 4202)
 Latest Contract Deployment:
 
-CommitSaving v2 — 0x705D22b68f90d8C2E7EA54CBe2931C1d6C63c49Fb
+CommitSaving v3 — 0xEc06216709cA6869D07ED50379227149601729E5 (latest)
 
 🧩 One-liner
 
